@@ -1,0 +1,2 @@
+
+@extends('chef/diseños/plantillaBase')

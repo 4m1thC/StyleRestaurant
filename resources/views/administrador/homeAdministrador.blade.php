@@ -1,0 +1,2 @@
+
+@extends('administrador/diseños/plantillaBase')
